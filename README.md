@@ -3,7 +3,7 @@
 I am still very very new to the blockchain world and have mostly spent my time designing for various projects of varrying _success_. I'll keep things organized by project for now as that seems to make sense, but we will see how this space evolves as my work in Web3 starts to pile up. 
 
 ## Currently ...
-I am really enjoying brand and identity work with projects looking to build trust with a cohesive identity. Packages includes a logo, wordmark, palette, font combo, and starter visual package for social media and Discord branding. Below you can find projects I've provided these services for. Get in touch with any questions [@TedyKGB](https://twitter.com/TedyKGB).
+I am really enjoying brand and identity work with projects looking to build trust with a cohesive identity. Packages include a logo, wordmark, palette, font combo, and starter visual package for social media and Discord branding. Below you can find projects I've provided these services for. Get in touch with any questions [@TedyKGB](https://twitter.com/TedyKGB).
 
 ### Batasm Finance / Vamp Finance / Batasm Yield Optimizer
 - [https://twitter.com/batasmfinance](https://twitter.com/batasmfinance)
