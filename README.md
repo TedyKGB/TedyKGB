@@ -6,15 +6,11 @@ I am still very very new to the blockchain world and have mostly spent my time d
 I am really enjoying brand and identity work with projects looking to build trust with a cohesive identity. Packages includes a logo, wordmark, palette, font combo, and starter visual package for social media and Discord branding. Below you can find projects I've provided these services for. Get in touch with any questions [@TedyKGB](https://twitter.com/TedyKGB).
 
 ### Batasm Finance / Vamp Finance / Batasm Yield Optimizer
-![Batasm Logo](https://github.com/batasm-finance/batasm-assets/blob/master/batasm/batasm-icon-naked.png)
-
 - [https://twitter.com/batasmfinance](https://twitter.com/batasmfinance)
 - [GitHub Repo](https://github.com/batasm-finance/batasm-assets)
 
 I have the pleasure of handling a lot of the design heavy lifting for Batasm Finance including building out a flexible brand system to spin up new projects along the Pepe meme theme. It's been remarkably rewarding due to the challenge, and team collaboration we have. Building a Bat, Vampire, and Farmer Pepe logo that are all interchangable has been fun, matching to a fresh color palette that can work with the others has led to some of my best color work to date.
 
 Throw in getting to help skin a Tomb fork to ensure users reckognize the familiar Tomb interface, but also understand that it has been fully customized and designed by folks who are trying to provide a better experience — build trust.
-
-![Fantasm Finance Color Palette](https://github.com/batasm-finance/batasm-assets/blob/master/vamp-finance/vamp-brand-identity-palette.png)
 
 ![How to Bastasm Infographic](https://github.com/batasm-finance/batasm-assets/blob/master/batasm/how-to-batasm-v1.4.png)
